@@ -1,0 +1,11 @@
+postgres://
+
+yrzmtbpaiizozp  == usuario
+:
+2434701edca551d002248621da81eb570392619df498656fcd7d1ba024a83d50  == senha
+@
+ec2-52-203-118-49.compute-1.amazonaws.com  == host
+:
+5432  == porta
+/
+d19v00hbbngoam  == base de dados
